@@ -20,5 +20,5 @@ washington.csv (no upload)
 new_york_city.csv (no upload)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+for test, nothing for this part
 
