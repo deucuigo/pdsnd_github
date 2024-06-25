@@ -1,16 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity Python project
 
 ### Date created
-Include the date you created this project and README file.
+.gitignore
+bikeshare.py
 
 ### Project Title
-Replace the Project Title
+Udacity Python project
 
 ### Description
-Describe what your project is about and what it does
+1. read in data file
+2. do some statistic work and print them on terminal
+3. some comment for function
+4. do some interaction with users
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv (no upload)
+washington.csv (no upload)
+new_york_city.csv (no upload)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
