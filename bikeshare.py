@@ -190,7 +190,8 @@ def main():
         if restart.lower() != 'yes':
             break
          
-        # set one change
+        # set one change 1
+        # set second change 2
 
 if __name__ == "__main__":
 	main()
